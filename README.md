@@ -1,0 +1,1 @@
+I have written a simple C program to simulate a basic banking system with options for balance inquiry, deposit, withdrawal, and transfer. However, the program has several issues—some minor, some significant—that can affect compilation, behavior, or user experience. 
